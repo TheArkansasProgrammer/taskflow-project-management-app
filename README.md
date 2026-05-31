@@ -81,16 +81,11 @@ Initial project setup and local development server.
 
 This project includes additional documentation explaining the major features, implementation decisions, and code used throughout development.
 
-### Documentation Files
+## Additional Documentation
 
-- State Management
-- Task Creation
-- Task Deletion
-- Dashboard Metrics
-- Status Updates
-- Priority System
-- Due Dates
-- Local Storage
+Detailed explanations of the code used throughout this project can be found in:
+
+[CODE USED](./CODE%20USED.md)
 
 ## Installation
 
