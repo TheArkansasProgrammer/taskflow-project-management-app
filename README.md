@@ -12,37 +12,42 @@ This repository documents my development process from the initial application se
 <img width="4100" height="1104" alt="f" src="https://github.com/user-attachments/assets/717f6c14-c6b8-4daf-a53d-6e3671c48e74" />
 
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-## Features
+<h2>🚀 Features</h2>
 
-- Task creation
-- Task deletion
-- Task status tracking
-- Priority levels
-- Due dates
-- Dashboard metrics
-- Local storage persistence
-- Responsive design
+<ul>
+<li>Task Creation</li>
+<li>Task Deletion</li>
+<li>Status Tracking</li>
+<li>Priority Levels</li>
+<li>Due Date Management</li>
+<li>Dashboard Metrics</li>
+<li>Local Storage Persistence</li>
+<li>Responsive Design</li>
+</ul>
 
 </td>
 
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-## Technologies Used
+<h2>🛠️ Technologies Used</h2>
 
-- React
-- Vite
-- JavaScript
-- CSS
-- Git
-- GitHub
+<ul>
+<li>React</li>
+<li>Vite</li>
+<li>JavaScript</li>
+<li>CSS</li>
+<li>Git</li>
+<li>GitHub</li>
+</ul>
 
 </td>
 </tr>
 </table>
+
 ## Project Screenshots
 
 ### Application Startup
