@@ -26,6 +26,11 @@ TaskFlow is a React-based project management dashboard that helps users organize
 
 ### Application Startup
 <img width="1183" height="437" alt="01-vite-server-running" src="https://github.com/user-attachments/assets/b781dd1e-457d-4997-a209-2391891bfa5d" />
+**Purpose:** Verify that the React and Vite development environment was successfully configured.
+
+**Feature Added:** Initial project setup and local development server.
+
+**Why It Matters:** Established the foundation for all future development and confirmed the application could run locally.
 
 ### Initial Dashboard
 <img width="2550" height="1285" alt="02-taskflow-homepage" src="https://github.com/user-attachments/assets/469bb026-a513-459c-9997-17b9c490dc73" />
