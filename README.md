@@ -2,7 +2,7 @@
 
 TaskFlow is a React-based project management dashboard that helps users organize tasks using a Kanban-style workflow.
 
-<img width="4100" height="1200" alt="TaskFlow_Evolution_Showcase" src="https://github.com/user-attachments/assets/dcffb32d-4196-4ac0-9cbb-d7d2e8badcc8" />
+<img width="4100" height="1104" alt="f" src="https://github.com/user-attachments/assets/717f6c14-c6b8-4daf-a53d-6e3671c48e74" />
 
 
 ## Features
