@@ -1,6 +1,6 @@
 # TaskFlow
 
-# About This Project
+## About This Project
 
 TaskFlow is a project management dashboard that I designed and developed using React, JavaScript, CSS, and Vite.
 
