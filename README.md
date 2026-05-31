@@ -1,7 +1,14 @@
 # TaskFlow
 
-TaskFlow is a React-based project management dashboard that helps users organize tasks using a Kanban-style workflow.
+## About This Project
 
+TaskFlow is a project management dashboard that I designed and developed using React, JavaScript, CSS, and Vite.
+
+The goal of this project was to build a Kanban-style task management application where users can organize projects, track progress, manage priorities, and monitor overall productivity through dashboard metrics.
+
+Throughout development, I implemented features such as task creation, task deletion, status tracking, priority levels, due dates, dashboard analytics, and local storage persistence. This project allowed me to strengthen my skills in front-end development, state management, user interface design, Git version control, and GitHub project documentation.
+
+This repository documents my development process from the initial application setup to the completed working dashboard.
 <img width="4100" height="1104" alt="f" src="https://github.com/user-attachments/assets/717f6c14-c6b8-4daf-a53d-6e3671c48e74" />
 
 
