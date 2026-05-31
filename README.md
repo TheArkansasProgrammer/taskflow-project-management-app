@@ -14,7 +14,7 @@ This repository documents my development process from the initial application se
 
 ## Project Overview
 
-| 🚀 Features | 🛠️ Technologies |
+| Features | Technologies |
 |------------|----------------|
 | Task Creation | React |
 | Task Deletion | Vite |
