@@ -1,1 +1,23 @@
-Code Used
+# State Management
+
+## Code
+
+```javascript
+const [tasks, setTasks] = useState([])
+```
+
+## Why I Used It
+
+I used React's useState hook to store and manage task data throughout the application.
+
+## What It Accomplishes
+
+- Stores task information
+- Updates the UI automatically
+- Enables task creation
+- Enables task deletion
+- Enables task status updates
+
+## Business Value
+
+Allows the application to function as an interactive project management dashboard rather than a static webpage.
