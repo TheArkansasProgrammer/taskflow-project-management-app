@@ -77,6 +77,21 @@ Initial project setup and local development server.
 ### Final Application
 <img width="2556" height="1283" alt="13-final-taskflow-mvp" src="https://github.com/user-attachments/assets/50acabcd-04ce-4f2f-8654-d3ff9c6b75c2" />
 
+## Code Documentation
+
+This project includes additional documentation explaining the major features, implementation decisions, and code used throughout development.
+
+### Documentation Files
+
+- State Management
+- Task Creation
+- Task Deletion
+- Dashboard Metrics
+- Status Updates
+- Priority System
+- Due Dates
+- Local Storage
+
 ## Installation
 
 ```bash
