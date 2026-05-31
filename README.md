@@ -34,9 +34,6 @@ Verify that the React and Vite development environment was successfully configur
 **Feature Added**  
 Initial project setup and local development server.
 
-**Why It Matters**  
-Established the foundation for all future development and confirmed the application could run locally.
-
 <img width="1183" height="437" alt="01-vite-server-running" src="https://github.com/user-attachments/assets/b781dd1e-457d-4997-a209-2391891bfa5d" />
 
 ### Initial Dashboard
