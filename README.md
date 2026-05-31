@@ -12,6 +12,10 @@ This repository documents my development process from the initial application se
 <img width="4100" height="1104" alt="f" src="https://github.com/user-attachments/assets/717f6c14-c6b8-4daf-a53d-6e3671c48e74" />
 
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ## Features
 
 - Task creation
@@ -23,6 +27,10 @@ This repository documents my development process from the initial application se
 - Local storage persistence
 - Responsive design
 
+</td>
+
+<td valign="top" width="50%">
+
 ## Technologies Used
 
 - React
@@ -32,6 +40,9 @@ This repository documents my development process from the initial application se
 - Git
 - GitHub
 
+</td>
+</tr>
+</table>
 ## Project Screenshots
 
 ### Application Startup
