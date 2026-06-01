@@ -81,11 +81,19 @@ Initial project setup and local development server.
 
 This project includes additional documentation explaining the major features, implementation decisions, and code used throughout development.
 
-## Additional Documentation
+## Code Used
 
-Detailed explanations of the code used throughout this project can be found in:
+The following documents provide additional detail about key features and implementation decisions:
 
-[CODE USED](./CODE%20USED.md)
+- Task Data Management
+- Task Creation
+- Dashboard Metrics
+- Kanban Board Workflow
+- Task Status Updates
+- Priority Management
+- Due Date Tracking
+- Task Deletion
+- Local Storage
 
 ## Installation
 
