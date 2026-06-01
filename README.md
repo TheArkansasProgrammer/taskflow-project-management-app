@@ -83,17 +83,17 @@ This project includes additional documentation explaining the major features, im
 
 ## Code Used
 
-The following documents provide additional detail about key features and implementation decisions:
+The following documents explain the implementation and reasoning behind key features in TaskFlow:
 
-- Task Data Management
-- Task Creation
-- Dashboard Metrics
-- Kanban Board Workflow
-- Task Status Updates
-- Priority Management
-- Due Date Tracking
-- Task Deletion
-- Local Storage
+- [Task Data Management](./Code%20Used/Task%20Data%20Management.md)
+- [Task Creation](./Code%20Used/Task%20Creation.md)
+- [Dashboard Metrics](./Code%20Used/Dashboard%20Metrics.md)
+- [Kanban Board Workflow](./Code%20Used/Kanban%20Board%20Workflow.md)
+- [Task Status Updates](./Code%20Used/Task%20Status%20Updates.md)
+- [Priority Management](./Code%20Used/Priority%20Management.md)
+- [Due Date Tracking](./Code%20Used/Due%20Date%20Tracking.md)
+- [Task Deletion](./Code%20Used/Task%20Deletion.md)
+- [Local Storage](./Code%20Used/Local%20Storage.md)
 
 ## Installation
 
